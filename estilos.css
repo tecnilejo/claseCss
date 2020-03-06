@@ -11,6 +11,22 @@ h3{
     text-align: justify;
 
 }
-body{
-   background-color: blueviolet; 
+
+.fondoPrincipal{
+    background-color:orange; 
+}
+.headerIndex{
+    background-color: green;
+}
+.headerPagina2{
+    background-color: blue;
+}
+.imagenfondo{
+    background-image: url(https://placeimg.com/800/480/any);
+    height: 10px;
+    background-attachment: fixed;
+
+}
+.textorojo{
+    color: red;
 }
